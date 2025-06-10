@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on small beginner level projects related to mathematical and statistical modeling.
 - 📫 How to reach me: through my socials (LinkedIn, Instagram).
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: there are no fun facts, there are only facts. Or are there?
+- ⚡ Fun fact: there are no fun facts, there are only facts. All facts are fun. Or are they?
 
 <!---
 wowyash/wowyash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
